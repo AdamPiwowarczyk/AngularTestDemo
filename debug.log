@@ -1,0 +1,3 @@
+[0829/110119.459:ERROR:file_io_win.cc(162)] CreateFile C:\Users\lothu\AppData\Local\Temp\karma-97009895\Crashpad\settings.dat: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0829/110119.460:ERROR:file_io_win.cc(171)] CreateFile C:\Users\lothu\AppData\Local\Temp\karma-97009895\Crashpad\reports\59f05e01-39b6-4796-8b45-fdd7498b7415.dmp: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0829/110119.460:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed

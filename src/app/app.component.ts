@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularTestDemo';
+  lista = [];
+
+  dodajDoListy(event: string){
+    this.lista.push(event);
+  }
 }
